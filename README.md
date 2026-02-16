@@ -12,7 +12,7 @@ Scope:
 - Suggestion (autocomplete) behavior
 - Infinite feed behavior
 
-Documentation:
+Test:
 - [Test Cases – Desktop](./Desktop_ya_ru/TestCases.md)
 - [Bug Reports – Desktop](./Desktop_ya_ru/BugReports.md)
 
@@ -24,7 +24,7 @@ Scope:
 - Auto-translation feature
 - Smart Camera feature
 
-Documentation:
+Test:
 - [Test Cases – Mobile](./Mobile_iOS/TestCases.md)
 - [Bug Reports – Mobile](./Mobile_iOS/BugReports.md)
 
@@ -38,6 +38,6 @@ Documentation:
 
 - ---
 
-Documentation files:
+Documentation:
 - [Mobile](./Documentation/mob_ya.pdf)
 - [Web](./Documentation/web_ya.pdf)
