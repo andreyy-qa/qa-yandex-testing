@@ -35,3 +35,9 @@ Documentation:
 - Boundary Value Analysis
 - Exploratory Testing
 - Alternative Flow Testing
+
+- ---
+
+Documentation files:
+-[Mobile](./Documentation/mob ya.pdf)
+-[Web](./Documentation/web ya.pdf)
