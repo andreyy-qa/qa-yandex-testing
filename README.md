@@ -36,7 +36,7 @@ Test:
 - Exploratory Testing
 - Alternative Flow Testing
 
-- 
+
 
 ## Documentation:
 - [Mobile](./Documentation/mob_ya.pdf)
