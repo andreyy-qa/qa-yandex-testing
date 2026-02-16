@@ -39,5 +39,5 @@ Documentation:
 - ---
 
 Documentation files:
--[Mobile](./Documentation/mob_ya.pdf)
--[Web](./Documentation/web_ya.pdf)
+- [Mobile](./Documentation/mob_ya.pdf)
+- [Web](./Documentation/web_ya.pdf)
